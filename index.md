@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chuck Forsyth
+title: Base
 permalink: index.html
 ---
 
