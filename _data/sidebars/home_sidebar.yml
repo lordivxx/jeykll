@@ -19,7 +19,7 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Intro
-          url: /intro.html
+        - title: Home
+          url: /index.html
           output: web
 
