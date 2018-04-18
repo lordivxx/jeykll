@@ -1,24 +1,47 @@
----
-layout: none
-search: exclude
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-  {% unless post.search == "exclude" %}
+  
+  
   <url>
-    <loc>{{site.url}}{{post.url}}</loc>
+    <loc>http://biocluster.ucr.edu/~forsythc//jekyll/update/2018/04/05/welcome-to-jekyll.html</loc>
   </url>
-  {% endunless %}
-  {% endfor %}
+  
+  
+  
+  <url>
+    <loc>http://biocluster.ucr.edu/~forsythc//welcome.html</loc>
+  </url>
+  
+  
 
 
-  {% for page in site.pages %}
-  {% unless page.search == "exclude" %}
+  
+  
+  
+  
   <url>
-    <loc>{{site.url}}{{ page.url}}</loc>
+    <loc>http://biocluster.ucr.edu/~forsythc//index.html</loc>
   </url>
-  {% endunless %}
-  {% endfor %}
+  
+  
+  
+  <url>
+    <loc>http://biocluster.ucr.edu/~forsythc//css/main.css</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://biocluster.ucr.edu/~forsythc//js/mydoc_scroll.html</loc>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </urlset>
