@@ -12,3 +12,4 @@ permalink: index.html
 
 ## Test
 [Test](test.html)
+[Test2](test2.html)
