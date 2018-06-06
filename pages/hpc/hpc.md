@@ -6,5 +6,5 @@ permalink: hpc.html
 
 
 
-# HPC Links
+## HPC in the Cloud
 - [HPC on AWS](hpc-aws.html)

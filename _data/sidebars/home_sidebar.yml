@@ -23,7 +23,6 @@ entries:
           url: /index.html
           output: web
 
-      subfolders:
       - title: High Performance Computing
         output: web
         subfolderitems:
