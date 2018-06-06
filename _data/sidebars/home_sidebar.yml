@@ -19,7 +19,7 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Home
+        - title: Main Page
           url: /index.html
           output: web
 
@@ -27,6 +27,6 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Home
+        - title: Main Page
           url: /hpc.html
           output: web
