@@ -4,8 +4,5 @@ title: Welcome to the Workshop
 permalink: index.html
 ---
 
-
-
-**Terminal Stream Capture**
-<script src="https://asciinema.org/a/OQsmfBsSPNckfKyNwecBGvzA5.js" id="asciicast-OQsmfBsSPNckfKyNwecBGvzA5" async data-autoplay="false" data-size="small" data-speed="5"></script>
+This website will serv to try and organize and share the things I am interested in and working with.
 

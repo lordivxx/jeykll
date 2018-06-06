@@ -23,3 +23,11 @@ entries:
           url: /index.html
           output: web
 
+      subfolders:
+      - title: High Performance Computing
+        output: web
+        subfolderitems:
+
+        - title: Home
+          url: /hpc.html
+          output: web
